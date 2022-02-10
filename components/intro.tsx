@@ -5,11 +5,11 @@ import NextLink from 'next/link'
 
 
 const ExternalIntroLinkStyled = styled.a`
-color:#70ACF9;
+color:black;
 text-decoration:underline;
 `
 const InternalIntroLinkStyled = styled.a`
-color:#5A2CF4;
+color:black;
 text-decoration:underline;
 `
 
