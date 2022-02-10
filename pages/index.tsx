@@ -35,9 +35,9 @@ const Home: NextPage = () => (
         <Text fontSize="xl" pb="20px" align="justify">
           I don&apos;t know what I would do with my life without a computer and vscode on my side.
           I love getting my hands into code, learning ways to improve and refactor it.
-          I fell in love with <ExternalIntroLink href="python"><PythonIcon /> Python</ExternalIntroLink> and <ExternalIntroLink href="pytorch"><PytorchIcon /> PyTorch</ExternalIntroLink>,
-          and more recently with <ExternalIntroLink href="react"><ReactIcon /> React.js</ExternalIntroLink> and <ExternalIntroLink href="next"><NextIcon /> Next.js</ExternalIntroLink>.
-          But I started with <ExternalIntroLink href="php"><PHPIcon /> PHP</ExternalIntroLink>.
+          I fell in love with <ExternalIntroLink href="https://www.python.org/"><PythonIcon /> Python</ExternalIntroLink> and <ExternalIntroLink href="https://pytorch.org/"><PytorchIcon /> PyTorch</ExternalIntroLink>,
+          and more recently with <ExternalIntroLink href="https://reactjs.org/"><ReactIcon /> React.js</ExternalIntroLink> and <ExternalIntroLink href="https://nextjs.org/"><NextIcon /> Next.js</ExternalIntroLink>.
+          But I started with <ExternalIntroLink href="https://www.php.net/"><PHPIcon /> PHP</ExternalIntroLink>.
         </Text>
 
         <Text fontSize="xl" pb="20px" align="justify">
