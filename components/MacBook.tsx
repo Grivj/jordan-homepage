@@ -22,7 +22,7 @@ const MacBookScene = ({ scale = 1, height = "300px" }: MacBookSceneProps) => (
         </Center>
 
         {/* <OrbitControls autoRotate={true} /> */}
-        <OrbitControls maxDistance={50} minDistance={1} />
+        <OrbitControls maxDistance={50} minDistance={1} enablePan={false} />
         <Environment preset="studio" />
       </Suspense>
     </Canvas>
