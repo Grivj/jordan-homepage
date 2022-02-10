@@ -13,6 +13,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <meta name="description" content="Jordan's portfolio" />
                 <meta name="author" content="Griveau Jordan" />
+                <link rel="shortcut icon" href="/headerlogo.png" type="image/x-icon" />
                 <title>Griveau Jordan</title>
             </Head>
 
