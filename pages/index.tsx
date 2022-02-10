@@ -13,8 +13,8 @@ const HeaderName = styled.span`
 
 
 const Home: NextPage = () => (
-  <Container maxW={{ sm: "680px", xl: "1200px" }} margin="auto" p="20px">
-    <SimpleGrid columns={{ md: 1, xl: 2 }} spacing="20px">
+  <Container maxW={{ base: "680px", lg: "1200px" }} margin="auto" p="20px">
+    <SimpleGrid columns={{ base: 1, lg: 2 }} spacing="20px">
       <Box>
         <SocialsBar />
         <Text as="h1" align="center" fontSize="4xl" pb="40px">
@@ -43,7 +43,7 @@ const Home: NextPage = () => (
         <Text fontSize="xl" pb="20px" align="justify">
           After hours,
           I can be found playing some Chess and learning openings, traveling, especially in deep rural China to meet with the locals.
-          I also enjoy watching my portfolio shrinking in the stock market 📉 and crypto.
+          I also enjoy watching my portfolio shrinking in the stock market 📉&nbsp;and crypto.
         </Text>
         {/* <Works /> */}
       </Box>

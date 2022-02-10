@@ -12,7 +12,7 @@ interface MacBookSceneProps {
 }
 
 const MacBookScene = ({ scale = 1, height = "300px" }: MacBookSceneProps) => (
-  <Box height={{ base: "500px", xl: "100%" }}>
+  <Box height={{ base: "500px", lg: "100%" }}>
     <Canvas>
       <Suspense fallback={null}>
         <Center>
