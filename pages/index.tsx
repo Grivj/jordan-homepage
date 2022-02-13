@@ -27,7 +27,7 @@ const Home: NextPage = () => (
         </Text>
 
         <Text fontSize="xl" pb="20px" align="justify">
-          Recently, I&apos;ve been busy working on my thesis,
+          Recently, I&apos;ve been busy working on my <ExternalIntroLink href="/thesis.pdf">thesis</ExternalIntroLink>,
           as well as spending some time on <ExternalIntroLink href="https://leetcode.com/user5194G/">leetcode</ExternalIntroLink> or <ExternalIntroLink href="https://www.codewars.com/users/Grivj">codewars</ExternalIntroLink>,
           studying and <InternalIntroLink href="/books">reading</InternalIntroLink> anything about software engineering or artificial intelligence.
         </Text>
